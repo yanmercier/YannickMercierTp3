@@ -1,0 +1,797 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-10-06 16:12+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/GolfclubsController.php:38;71;100;128;161;190
+msgid "Invalid golfclub"
+msgstr ""
+
+#: Controller/GolfclubsController.php:53;75;143;165
+msgid "The golfclub has been saved"
+msgstr ""
+
+#: Controller/GolfclubsController.php:56;78;146;168
+msgid "The golfclub could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/GolfclubsController.php:103;193
+msgid "Golfclub deleted"
+msgstr ""
+
+#: Controller/GolfclubsController.php:106;196
+msgid "Golfclub was not deleted"
+msgstr ""
+
+#: Controller/ParticipantsController.php:38;74;106;134;170;202
+msgid "Invalid participant"
+msgstr ""
+
+#: Controller/ParticipantsController.php:53;78;149;174
+msgid "The participant has been saved"
+msgstr ""
+
+#: Controller/ParticipantsController.php:56;81;152;177
+msgid "The participant could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ParticipantsController.php:109;205
+msgid "Participant deleted"
+msgstr ""
+
+#: Controller/ParticipantsController.php:112;208
+msgid "Participant was not deleted"
+msgstr ""
+
+#: Controller/ParticipantsTournamentsController.php:38;71;100;128;161;190
+msgid "Invalid participants tournament"
+msgstr ""
+
+#: Controller/ParticipantsTournamentsController.php:53;75;143;165
+msgid "The participants tournament has been saved"
+msgstr ""
+
+#: Controller/ParticipantsTournamentsController.php:56;78;146;168
+msgid "The participants tournament could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ParticipantsTournamentsController.php:103;193
+msgid "Participants tournament deleted"
+msgstr ""
+
+#: Controller/ParticipantsTournamentsController.php:106;196
+msgid "Participants tournament was not deleted"
+msgstr ""
+
+#: Controller/PlayersController.php:38;71;100;128;161;190
+msgid "Invalid player"
+msgstr ""
+
+#: Controller/PlayersController.php:53;75;143;165
+msgid "The player has been saved"
+msgstr ""
+
+#: Controller/PlayersController.php:56;78;146;168
+msgid "The player could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PlayersController.php:103;193
+msgid "Player deleted"
+msgstr ""
+
+#: Controller/PlayersController.php:106;196
+msgid "Player was not deleted"
+msgstr ""
+
+#: Controller/TournamentsController.php:38;75;108;136;173;206
+msgid "Invalid tournament"
+msgstr ""
+
+#: Controller/TournamentsController.php:53;79;151;177
+msgid "The tournament has been saved"
+msgstr ""
+
+#: Controller/TournamentsController.php:56;82;154;180
+msgid "The tournament could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TournamentsController.php:111;209
+msgid "Tournament deleted"
+msgstr ""
+
+#: Controller/TournamentsController.php:114;212
+msgid "Tournament was not deleted"
+msgstr ""
+
+#: Controller/UsersController.php:38;71;100
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:53;75
+msgid "The user has been saved"
+msgstr ""
+
+#: Controller/UsersController.php:56;78
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:103
+msgid "User deleted"
+msgstr ""
+
+#: Controller/UsersController.php:106
+msgid "User was not deleted"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:146
+msgid "The translation has been saved"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:167;190
+msgid "Translation saved"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:210
+msgid "Translation deleted"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:112
+msgid "Could not save the translation, please check your inputs."
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:134;171;215;237
+msgid "Invalid Translation"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:255
+msgid "You need to confirm to delete this Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:4
+msgid "Admin Add Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:17
+#: Plugin/I18n/View/Translations/admin_edit.ctp:19
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:40
+msgid "List Translations"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:1
+msgid "Delete Translation \"%s\"?"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:3
+msgid "Be aware that your Translation and all associated data will be deleted if you confirm!"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:11
+msgid "Confirm"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:13
+msgid "You have to confirm."
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:14
+msgid "Continue"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:4
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:4
+msgid "Admin Edit Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:18
+#: Plugin/I18n/View/Translations/admin_index.ctp:70
+#: View/Golfclubs/edit.ctp:9
+#: View/Golfclubs/index.ctp:45
+#: View/Golfclubs/view.ctp:97
+#: View/Participants/edit.ctp:9
+#: View/Participants/index.ctp:49
+#: View/Participants/view.ctp:99
+#: View/ParticipantsTournaments/edit.ctp:9
+#: View/ParticipantsTournaments/index.ctp:41
+#: View/Players/edit.ctp:9
+#: View/Players/index.ctp:45
+#: View/Players/view.ctp:87
+#: View/Tournaments/edit.ctp:9
+#: View/Tournaments/index.ctp:63
+#: View/Tournaments/view.ctp:116
+#: View/Users/edit.ctp:9
+#: View/Users/index.ctp:49
+#: View/Users/view.ctp:107
+msgid "Delete"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:22
+msgid "Submit"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:2
+msgid "Translations"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:6
+#: View/Golfclubs/index.ctp:56
+#: View/Participants/index.ctp:60
+#: View/ParticipantsTournaments/index.ctp:52
+#: View/Players/index.ctp:56
+#: View/Tournaments/index.ctp:74
+#: View/Users/index.ctp:60
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:17
+msgid "Locale Name"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:20
+msgid "Model Name"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:23
+#: Plugin/I18n/View/Translations/admin_view.ctp:24
+msgid "Field"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:29
+msgid "Content"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:28
+msgid "Search"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:40
+#: View/Golfclubs/index.ctp:32
+#: View/Golfclubs/view.ctp:77
+#: View/Participants/index.ctp:34
+#: View/Participants/view.ctp:79
+#: View/ParticipantsTournaments/index.ctp:29
+#: View/Players/index.ctp:32
+#: View/Players/view.ctp:72
+#: View/Tournaments/index.ctp:41
+#: View/Tournaments/view.ctp:101
+#: View/Users/index.ctp:34
+#: View/Users/view.ctp:87
+msgid "Actions"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:67
+#: View/Golfclubs/index.ctp:43
+#: View/Golfclubs/view.ctp:95
+#: View/Participants/index.ctp:47
+#: View/Participants/view.ctp:97
+#: View/ParticipantsTournaments/index.ctp:39
+#: View/Players/index.ctp:43
+#: View/Players/view.ctp:85
+#: View/Tournaments/index.ctp:61
+#: View/Tournaments/view.ctp:114
+#: View/Users/index.ctp:47
+#: View/Users/view.ctp:105
+msgid "View"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:68
+#: View/Golfclubs/index.ctp:44
+#: View/Golfclubs/view.ctp:96
+#: View/Participants/index.ctp:48
+#: View/Participants/view.ctp:98
+#: View/ParticipantsTournaments/index.ctp:40
+#: View/Players/index.ctp:44
+#: View/Players/view.ctp:86
+#: View/Tournaments/index.ctp:62
+#: View/Tournaments/view.ctp:115
+#: View/Users/index.ctp:48
+#: View/Users/view.ctp:106
+msgid "Edit"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:69
+msgid "Edit All locales for this entry"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:80
+#: Plugin/I18n/View/Translations/admin_view.ctp:41
+msgid "New Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:2
+msgid "Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:4
+#: View/Golfclubs/view.ctp:31;68
+#: View/Participants/view.ctp:33;70
+#: View/ParticipantsTournaments/view.ctp:29
+#: View/Players/view.ctp:31;68
+#: View/Tournaments/view.ctp:35;97
+#: View/Users/view.ctp:31;78
+msgid "Id"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:9
+msgid "Locale"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:14
+msgid "Model"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:19
+msgid "Foreign Key"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:38
+msgid "Edit Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:39
+msgid "Delete Translation"
+msgstr ""
+
+#: View/Golfclubs/add.ctp:9
+#: View/Golfclubs/edit.ctp:10
+#: View/Golfclubs/view.ctp:11
+#: View/Tournaments/add.ctp:12
+#: View/Tournaments/edit.ctp:13
+#: View/Tournaments/index.ctp:12
+#: View/Tournaments/view.ctp:15
+msgid "List Golfclubs"
+msgstr ""
+
+#: View/Golfclubs/add.ctp:10
+#: View/Golfclubs/edit.ctp:11
+#: View/Golfclubs/index.ctp:10
+#: View/Golfclubs/view.ctp:13
+#: View/Participants/add.ctp:12
+#: View/Participants/edit.ctp:13
+#: View/Participants/index.ctp:12
+#: View/Participants/view.ctp:15
+#: View/Tournaments/add.ctp:9
+#: View/Tournaments/edit.ctp:10
+#: View/Tournaments/view.ctp:11
+#: View/Users/add.ctp:10
+#: View/Users/edit.ctp:11
+#: View/Users/index.ctp:10
+#: View/Users/view.ctp:13
+msgid "List Tournaments"
+msgstr ""
+
+#: View/Golfclubs/add.ctp:11
+#: View/Golfclubs/edit.ctp:12
+#: View/Golfclubs/index.ctp:11
+#: View/Golfclubs/view.ctp:14;109
+#: View/Participants/add.ctp:13
+#: View/Participants/edit.ctp:14
+#: View/Participants/index.ctp:13
+#: View/Participants/view.ctp:16;111
+#: View/Tournaments/index.ctp:9
+#: View/Tournaments/view.ctp:12
+#: View/Users/add.ctp:11
+#: View/Users/edit.ctp:12
+#: View/Users/index.ctp:11
+#: View/Users/view.ctp:14;119
+msgid "New Tournament"
+msgstr ""
+
+#: View/Golfclubs/add.ctp:20
+msgid "Add Golfclub"
+msgstr ""
+
+#: View/Golfclubs/edit.ctp:9
+#: View/Golfclubs/index.ctp:45
+#: View/Golfclubs/view.ctp:10;97
+#: View/Participants/edit.ctp:9
+#: View/Participants/index.ctp:49
+#: View/Participants/view.ctp:10;99
+#: View/ParticipantsTournaments/edit.ctp:9
+#: View/ParticipantsTournaments/index.ctp:41
+#: View/ParticipantsTournaments/view.ctp:10
+#: View/Players/edit.ctp:9
+#: View/Players/index.ctp:45
+#: View/Players/view.ctp:10;87
+#: View/Tournaments/edit.ctp:9
+#: View/Tournaments/index.ctp:63
+#: View/Tournaments/view.ctp:10;116
+#: View/Users/edit.ctp:9
+#: View/Users/index.ctp:49
+#: View/Users/view.ctp:10;107
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Golfclubs/edit.ctp:21
+#: View/Golfclubs/view.ctp:9
+msgid "Edit Golfclub"
+msgstr ""
+
+#: View/Golfclubs/index.ctp:9
+#: View/Golfclubs/view.ctp:12
+#: View/Tournaments/add.ctp:13
+#: View/Tournaments/edit.ctp:14
+#: View/Tournaments/index.ctp:13
+#: View/Tournaments/view.ctp:16
+msgid "New Golfclub"
+msgstr ""
+
+#: View/Golfclubs/index.ctp:22
+msgid "Golfclubs"
+msgstr ""
+
+#: View/Golfclubs/index.ctp:63
+#: View/Participants/index.ctp:67
+#: View/ParticipantsTournaments/index.ctp:59
+#: View/Players/index.ctp:63
+#: View/Tournaments/index.ctp:81
+#: View/Users/index.ctp:67
+msgid "Previous"
+msgstr ""
+
+#: View/Golfclubs/index.ctp:65
+#: View/Participants/index.ctp:69
+#: View/ParticipantsTournaments/index.ctp:61
+#: View/Players/index.ctp:65
+#: View/Tournaments/index.ctp:83
+#: View/Users/index.ctp:69
+msgid "Next"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:10
+msgid "Delete Golfclub"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:26
+#: View/Tournaments/view.ctp:75
+msgid "Golfclub"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:36
+msgid "Golfname"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:41
+msgid "Golfadress"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:46
+msgid "Golfemail"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:60
+#: View/Participants/view.ctp:62
+#: View/Users/view.ctp:70
+msgid "Related Tournaments"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:69
+#: View/Participants/view.ctp:71
+#: View/Tournaments/view.ctp:40
+#: View/Users/view.ctp:79
+msgid "TournamentsName"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:70
+#: View/Participants/view.ctp:72
+#: View/Tournaments/view.ctp:45
+#: View/Users/view.ctp:80
+msgid "Sponsor"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:71
+#: View/Participants/view.ctp:73
+#: View/Tournaments/view.ctp:50
+#: View/Users/view.ctp:81
+msgid "Email"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:72
+#: View/Participants/view.ctp:74
+#: View/Tournaments/view.ctp:55
+#: View/Users/view.ctp:51;82
+msgid "Created"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:73
+#: View/Participants/view.ctp:75
+#: View/Tournaments/view.ctp:60
+#: View/Users/view.ctp:56;83
+msgid "Modified"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:74
+#: View/Participants/view.ctp:76
+#: View/Users/view.ctp:84
+msgid "User Id"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:75
+#: View/Participants/view.ctp:77
+#: View/ParticipantsTournaments/view.ctp:34
+#: View/Tournaments/view.ctp:70
+#: View/Users/view.ctp:85
+msgid "Participant Id"
+msgstr ""
+
+#: View/Golfclubs/view.ctp:76
+#: View/Participants/view.ctp:78
+#: View/Users/view.ctp:86
+msgid "Golfclub Id"
+msgstr ""
+
+#: View/Participants/add.ctp:9
+#: View/Participants/edit.ctp:10
+#: View/Participants/view.ctp:11
+#: View/Players/add.ctp:10
+#: View/Players/edit.ctp:11
+#: View/Players/index.ctp:10
+#: View/Players/view.ctp:13
+#: View/Tournaments/add.ctp:14
+#: View/Tournaments/edit.ctp:15
+#: View/Tournaments/index.ctp:14
+#: View/Tournaments/view.ctp:17
+msgid "List Participants"
+msgstr ""
+
+#: View/Participants/add.ctp:10
+#: View/Participants/edit.ctp:11
+#: View/Participants/index.ctp:10
+#: View/Participants/view.ctp:13
+#: View/Players/add.ctp:9
+#: View/Players/edit.ctp:10
+#: View/Players/view.ctp:11
+msgid "List Players"
+msgstr ""
+
+#: View/Participants/add.ctp:11
+#: View/Participants/edit.ctp:12
+#: View/Participants/index.ctp:11
+#: View/Participants/view.ctp:14
+#: View/Players/index.ctp:9
+#: View/Players/view.ctp:12
+msgid "New Player"
+msgstr ""
+
+#: View/Participants/add.ctp:22
+msgid "Add Participant"
+msgstr ""
+
+#: View/Participants/edit.ctp:23
+#: View/Participants/view.ctp:9
+msgid "Edit Participant"
+msgstr ""
+
+#: View/Participants/index.ctp:9
+#: View/Participants/view.ctp:12
+#: View/Players/add.ctp:11
+#: View/Players/edit.ctp:12
+#: View/Players/index.ctp:11
+#: View/Players/view.ctp:14;99
+#: View/Tournaments/add.ctp:15
+#: View/Tournaments/edit.ctp:16
+#: View/Tournaments/index.ctp:15
+#: View/Tournaments/view.ctp:18;128
+msgid "New Participant"
+msgstr ""
+
+#: View/Participants/index.ctp:24
+msgid "Participants"
+msgstr ""
+
+#: View/Participants/view.ctp:10
+msgid "Delete Participant"
+msgstr ""
+
+#: View/Participants/view.ctp:28
+msgid "Participant"
+msgstr ""
+
+#: View/Participants/view.ctp:38
+#: View/Players/view.ctp:69
+#: View/Tournaments/view.ctp:98
+msgid "PlayerPlace"
+msgstr ""
+
+#: View/Participants/view.ctp:43
+#: View/Players/view.ctp:70
+#: View/Tournaments/view.ctp:99
+msgid "PlayerScore"
+msgstr ""
+
+#: View/Participants/view.ctp:48
+#: View/Players/view.ctp:26
+msgid "Player"
+msgstr ""
+
+#: View/ParticipantsTournaments/add.ctp:9
+#: View/ParticipantsTournaments/edit.ctp:10
+#: View/ParticipantsTournaments/view.ctp:11
+msgid "List Participants Tournaments"
+msgstr ""
+
+#: View/ParticipantsTournaments/add.ctp:18
+msgid "Add Participants Tournament"
+msgstr ""
+
+#: View/ParticipantsTournaments/edit.ctp:19
+#: View/ParticipantsTournaments/view.ctp:9
+msgid "Edit Participants Tournament"
+msgstr ""
+
+#: View/ParticipantsTournaments/index.ctp:9
+#: View/ParticipantsTournaments/view.ctp:12
+msgid "New Participants Tournament"
+msgstr ""
+
+#: View/ParticipantsTournaments/index.ctp:20
+msgid "Participants Tournaments"
+msgstr ""
+
+#: View/ParticipantsTournaments/view.ctp:10
+msgid "Delete Participants Tournament"
+msgstr ""
+
+#: View/ParticipantsTournaments/view.ctp:24
+msgid "Participants Tournament"
+msgstr ""
+
+#: View/ParticipantsTournaments/view.ctp:39
+msgid "Tournament Id"
+msgstr ""
+
+#: View/Players/add.ctp:20
+msgid "Add Player"
+msgstr ""
+
+#: View/Players/edit.ctp:21
+#: View/Players/view.ctp:9
+msgid "Edit Player"
+msgstr ""
+
+#: View/Players/index.ctp:22
+msgid "Players"
+msgstr ""
+
+#: View/Players/view.ctp:10
+msgid "Delete Player"
+msgstr ""
+
+#: View/Players/view.ctp:36
+msgid "PlayerName"
+msgstr ""
+
+#: View/Players/view.ctp:41
+msgid "PlayerAddress"
+msgstr ""
+
+#: View/Players/view.ctp:46
+msgid "PlayerEmail"
+msgstr ""
+
+#: View/Players/view.ctp:60
+#: View/Tournaments/view.ctp:89
+msgid "Related Participants"
+msgstr ""
+
+#: View/Players/view.ctp:71
+#: View/Tournaments/view.ctp:100
+msgid "Player Id"
+msgstr ""
+
+#: View/Tournaments/add.ctp:10
+#: View/Tournaments/edit.ctp:11
+#: View/Tournaments/index.ctp:10
+#: View/Tournaments/view.ctp:13
+#: View/Users/add.ctp:9
+#: View/Users/edit.ctp:10
+#: View/Users/view.ctp:11
+msgid "List Users"
+msgstr ""
+
+#: View/Tournaments/add.ctp:11
+#: View/Tournaments/edit.ctp:12
+#: View/Tournaments/index.ctp:11
+#: View/Tournaments/view.ctp:14
+#: View/Users/index.ctp:9
+#: View/Users/view.ctp:12
+msgid "New User"
+msgstr ""
+
+#: View/Tournaments/add.ctp:24
+msgid "Add Tournament"
+msgstr ""
+
+#: View/Tournaments/edit.ctp:25
+#: View/Tournaments/view.ctp:9
+msgid "Edit Tournament"
+msgstr ""
+
+#: View/Tournaments/index.ctp:26
+msgid "Tournaments"
+msgstr ""
+
+#: View/Tournaments/view.ctp:10
+msgid "Delete Tournament"
+msgstr ""
+
+#: View/Tournaments/view.ctp:30
+msgid "Tournament"
+msgstr ""
+
+#: View/Tournaments/view.ctp:65
+#: View/Users/view.ctp:26
+msgid "User"
+msgstr ""
+
+#: View/Users/add.ctp:20
+msgid "Add User"
+msgstr ""
+
+#: View/Users/edit.ctp:21
+#: View/Users/view.ctp:9
+msgid "Edit User"
+msgstr ""
+
+#: View/Users/index.ctp:22
+msgid "Users"
+msgstr ""
+
+#: View/Users/view.ctp:10
+msgid "Delete User"
+msgstr ""
+
+#: View/Users/view.ctp:36
+msgid "Username"
+msgstr ""
+
+#: View/Users/view.ctp:41
+msgid "Password"
+msgstr ""
+
+#: View/Users/view.ctp:46
+msgid "Role"
+msgstr ""
+
+#: Model/Golfclub.php:validation for field golfname;validation for field golfadress
+#: Model/Participant.php:validation for field playerPlace;validation for field playerScore
+#: Model/Player.php:validation for field playerName;validation for field playerAddress
+#: Model/Tournament.php:validation for field tournamentsName;validation for field sponsor
+#: Model/User.php:validation for field username;validation for field password;validation for field role
+msgid "notEmpty"
+msgstr ""
+
+#: Model/Golfclub.php:validation for field golfemail
+#: Model/Player.php:validation for field playerEmail
+#: Model/Tournament.php:validation for field email
+msgid "email"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field locale
+msgid "Please enter a Locale"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field model
+msgid "Please enter a Model"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field foreign_key
+msgid "Please enter a Foreign Key"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field field
+msgid "Please enter a Field"
+msgstr ""
+

@@ -1,0 +1,6 @@
+Pour avoir accès à la base de donné il faut : 
+
+1. Ouvrir AMPPS ou Uniform
+2. Aller sur "localhost/phpmyadmin"
+3. Créer une base de donnée nommé "Tp2Golf"
+4. Importer le fichier SQL "Tp2Golf.sql" présent dans le dossier "MerYa374Tp2"
