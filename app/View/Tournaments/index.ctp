@@ -1,4 +1,3 @@
-
 <div id="page-container" class="row">
 
 	<div id="sidebar" class="col-sm-3">
@@ -29,33 +28,6 @@
 		<a href="#" class="dropdown-toggle" data-toggle="dropdown">Tournament 
 		<span class="caret"></span>
 		</a>
-	<div id="sidebar" class="col-sm-3">
-
-		<div class="actions">
-		
-		<ul class="nav nav-pills nav-stacked">
-                    
-                    
-                    <?php if ($this->Session->check('Auth.User')){ 
-				if($this->Session->read('Auth.User.active') == 0){ ?>
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Confirm your email
-						<span class="caret"></span>
-						</a>
-						<ul class="dropdown-menu">
-							 <li class="list-group-item"><?php echo $this->Html->link(__('Send a new mail confirmation'),
-										array('controller' => 'users', 'action' => 'confirmation')); ?>
-							 </li>    
-								 <li class="list-group-item"><?php echo $this->Html->link(__('Restrictions'),
-										array('controller' => 'users', 'action' => 'restriction')); ?>
-							 </li>  
-						</ul>
-						</li>
-			<?php }} ?>
-                    
-		<li class="dropdown">
-		<a href="#" class="dropdown-toggle" data-toggle="dropdown">Tournament 
-		<span class="caret"></span>
 		<ul class="dropdown-menu">
 		<li class="list-group-item"><?php echo $this->Html->link(__('List Tournaments'), array('controller' => 'tournaments', 'action' => 'index'), array('class' => '')); ?> </li>
 			<li class="list-group-item"><?php echo $this->Html->link(__('New Tournaments'), array('controller' => 'tournaments', 'action' => 'add'), array('class' => '')); ?> </li>
